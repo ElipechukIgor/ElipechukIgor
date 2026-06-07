@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Igor Elipechuk 👋
 
-<!--
-**ElipechukIgor/ElipechukIgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Engineer | AWS | Databricks | PySpark | Machine Learning
 
-Here are some ideas to get you started:
+Passionate about building scalable data platforms, Lakehouse architectures and AI-powered pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+
+- AWS
+- Databricks
+- PySpark
+- Delta Lake
+- MLflow
+- SQL
+- Python
+- Data Engineering
+- Machine Learning
+
+### Featured Projects
+
+#### Smart Claims Image Pipeline
+
+Production-style Lakehouse pipeline for insurance claim image processing using:
+
+- AWS S3
+- Databricks Auto Loader
+- Delta Lake
+- MLflow
+- Machine Learning
+- Databricks Workflows
+
+🔗 Repository:
+https://github.com/ElipechukIgor/smart-claims-image-pipeline
+
+---
+
+### Currently Learning
+
+- Advanced Databricks
+- Spark Optimization
+- Data Quality Engineering
+- MLOps
+- Generative AI
+
+### Contact
+
+LinkedIn:
+https://www.linkedin.com
+
+GitHub:
+https://github.com/ElipechukIgor
