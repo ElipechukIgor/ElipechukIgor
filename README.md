@@ -1,51 +1,132 @@
 # Hi, I'm Igor Elipechuk 👋
 
-## Data Engineer | AWS | Databricks | PySpark | Machine Learning
+## Data Engineer | AWS | Databricks | PySpark | Kafka | Airflow
 
-Passionate about building scalable data platforms, Lakehouse architectures and AI-powered pipelines.
+Passionate about building scalable data platforms, real-time data pipelines, Lakehouse architectures and AI-powered solutions.
 
-### Technologies
+Currently focused on Data Engineering, Streaming Analytics, Cloud Data Platforms and Machine Learning pipelines.
 
-- AWS
-- Databricks
-- PySpark
-- Delta Lake
-- MLflow
-- SQL
-- Python
-- Data Engineering
-- Machine Learning
+---
 
-### Featured Projects
+## Core Technologies
 
-#### Smart Claims Image Pipeline
+### Data Engineering
 
-Production-style Lakehouse pipeline for insurance claim image processing using:
+* Python
+* SQL
+* PySpark
+* Apache Spark
+* Delta Lake
+* Databricks
+* Apache Kafka
+* Apache Airflow
 
-- AWS S3
-- Databricks Auto Loader
-- Delta Lake
-- MLflow
-- Machine Learning
-- Databricks Workflows
+### Cloud & Storage
 
-🔗 Repository:
+* AWS S3
+* Lakehouse Architecture
+* Data Pipelines
+* ETL / ELT
+* Data Quality
+
+### Analytics & AI
+
+* Machine Learning
+* MLflow
+* Data Visualization
+* Predictive Analytics
+
+---
+
+## Featured Projects
+
+### 🚀 ATM Predictive Maintenance Platform
+
+End-to-end real-time data engineering platform for ATM monitoring and predictive maintenance.
+
+Architecture:
+
+Kafka → Airflow → AWS S3 → Databricks → Delta Lake → Analytics Dashboard
+
+Features:
+
+* Real-time ATM event simulation
+* Apache Kafka streaming ingestion
+* Apache Airflow orchestration
+* AWS S3 data lake storage
+* Parquet partitioning strategy
+* Bronze / Silver / Gold architecture
+* Data Quality validation
+* Operational KPI dashboards
+* Predictive maintenance analytics
+
+Repository:
+
+https://github.com/ElipechukIgor/atm-predictive-maintenance-platform
+
+---
+
+### 🖼️ Smart Claims Image Pipeline
+
+Production-style Lakehouse pipeline for insurance claim image processing.
+
+Features:
+
+* AWS S3 ingestion layer
+* Databricks Auto Loader
+* Delta Lake processing
+* MLflow experiment tracking
+* Machine Learning classification
+* Databricks Workflows orchestration
+* Gold analytical layer
+* Executive dashboards
+
+Repository:
+
 https://github.com/ElipechukIgor/smart-claims-image-pipeline
 
 ---
 
-### Currently Learning
+### 📅 Prossfy Platform
 
-- Advanced Databricks
-- Spark Optimization
-- Data Quality Engineering
-- MLOps
-- Generative AI
+Workflow and process management platform focused on team collaboration and business process automation.
 
-### Contact
+Technologies:
 
-LinkedIn:
-https://www.linkedin.com
+* Next.js
+* PostgreSQL
+* Prisma
+* JWT Authentication
+* WhatsApp Integration
+* Dashboard Analytics
 
-GitHub:
+---
+
+## Currently Learning
+
+* Advanced Databricks Engineering
+* Spark Performance Optimization
+* MLOps
+* Data Quality Engineering
+* Generative AI
+* Streaming Architectures
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElipechukIgor\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElipechukIgor\&layout=compact)
+
+---
+
+## Contact
+
+### LinkedIn
+
+www.linkedin.com/in/igorelipechuk
+
+### GitHub
+
 https://github.com/ElipechukIgor
