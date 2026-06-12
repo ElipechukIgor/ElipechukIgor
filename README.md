@@ -2,131 +2,109 @@
 
 ## Data Engineer | AWS | Databricks | PySpark | Kafka | Airflow
 
-Passionate about building scalable data platforms, real-time data pipelines, Lakehouse architectures and AI-powered solutions.
+Data professional with 13+ years of experience in technology and process optimization, currently focused on Data Engineering, Lakehouse architectures, Streaming Data Pipelines and AI-powered analytics solutions.
 
-Currently focused on Data Engineering, Streaming Analytics, Cloud Data Platforms and Machine Learning pipelines.
+I enjoy building scalable cloud-native data platforms using AWS, Databricks, Apache Spark, Kafka and modern Data Engineering practices.
 
 ---
 
-## Core Technologies
+## Tech Stack
 
 ### Data Engineering
 
-* Python
-* SQL
-* PySpark
-* Apache Spark
-* Delta Lake
-* Databricks
-* Apache Kafka
-* Apache Airflow
+- Apache Spark
+- PySpark
+- Delta Lake
+- Databricks
+- Apache Kafka
+- Apache Airflow
+- SQL
+- Data Modeling
 
-### Cloud & Storage
+### Cloud
 
-* AWS S3
-* Lakehouse Architecture
-* Data Pipelines
-* ETL / ELT
-* Data Quality
+- AWS S3
+- AWS EC2
+- AWS IAM
+- AWS Glue
+
+### Programming
+
+- Python
+- SQL
+- JavaScript
+- TypeScript
 
 ### Analytics & AI
 
-* Machine Learning
-* MLflow
-* Data Visualization
-* Predictive Analytics
+- MLflow
+- Machine Learning
+- Data Quality
+- Generative AI
 
 ---
 
 ## Featured Projects
 
-### 🚀 ATM Predictive Maintenance Platform
+### ATM Predictive Maintenance Platform
 
-End-to-end real-time data engineering platform for ATM monitoring and predictive maintenance.
+Real-time streaming data platform simulating predictive maintenance for ATM networks.
 
-Architecture:
+**Technologies**
 
-Kafka → Airflow → AWS S3 → Databricks → Delta Lake → Analytics Dashboard
+- Apache Kafka
+- Apache Airflow
+- AWS S3
+- Databricks
+- Delta Lake
+- PySpark
 
-Features:
-
-* Real-time ATM event simulation
-* Apache Kafka streaming ingestion
-* Apache Airflow orchestration
-* AWS S3 data lake storage
-* Parquet partitioning strategy
-* Bronze / Silver / Gold architecture
-* Data Quality validation
-* Operational KPI dashboards
-* Predictive maintenance analytics
-
-Repository:
+🔗 Repository:
 
 https://github.com/ElipechukIgor/atm-predictive-maintenance-platform
 
 ---
 
-### 🖼️ Smart Claims Image Pipeline
+### Smart Claims Image Pipeline
 
-Production-style Lakehouse pipeline for insurance claim image processing.
+End-to-end Lakehouse architecture for insurance claim image processing and AI-powered classification.
 
-Features:
+**Technologies**
 
-* AWS S3 ingestion layer
-* Databricks Auto Loader
-* Delta Lake processing
-* MLflow experiment tracking
-* Machine Learning classification
-* Databricks Workflows orchestration
-* Gold analytical layer
-* Executive dashboards
+- AWS S3
+- Databricks Auto Loader
+- Delta Lake
+- MLflow
+- Databricks Workflows
+- Computer Vision
 
-Repository:
+🔗 Repository:
 
 https://github.com/ElipechukIgor/smart-claims-image-pipeline
 
 ---
 
-### 📅 Prossfy Platform
-
-Workflow and process management platform focused on team collaboration and business process automation.
-
-Technologies:
-
-* Next.js
-* PostgreSQL
-* Prisma
-* JWT Authentication
-* WhatsApp Integration
-* Dashboard Analytics
-
----
-
 ## Currently Learning
 
-* Advanced Databricks Engineering
-* Spark Performance Optimization
-* MLOps
-* Data Quality Engineering
-* Generative AI
-* Streaming Architectures
+- Advanced Databricks
+- Spark Optimization
+- Data Quality Engineering
+- MLOps
+- Streaming Architectures
+- Generative AI
 
 ---
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElipechukIgor\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElipechukIgor\&layout=compact)
-
----
-
-## Contact
+## Connect With Me
 
 ### LinkedIn
 
-www.linkedin.com/in/igorelipechuk
+www.linkedin.com/in/igor-elipechuk
 
 ### GitHub
 
 https://github.com/ElipechukIgor
+
+---
+
+⭐ Always learning, building and sharing Data Engineering projects.
